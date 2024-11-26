@@ -1,4 +1,4 @@
-package com.swapna.carlist.car
+package com.swapna.carlist.ui.car
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
